@@ -27,25 +27,30 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
 - Firebase
 - React Context API
 - Styled Components  
 
 ## 💼 Technical Skills
+<h2>Frontend</h2>
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodejs&color=green)
 
-</br>
+<h2>Backend</h2>
+
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=43853D)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=4EA94B)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&color=404D59)
+
+<h2>Styles</h2>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
-</br>
+<h2>Tools</h2>
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
